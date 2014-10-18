@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/pressure.dir/main.cpp.o CMakeFiles/pressure.dir/home/jamesd/Developer/I2Cdev/I2Cdev.cpp.o  -o pressure -rdynamic -lrt -lzmq 
